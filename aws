@@ -1,7 +1,9 @@
 Git is used to track the files.
 It will maintain multiple versions of the same file.
 It is platform-independent.
-It is free and open-source.
+hello word{
+system.out.println {args};
+hello harish pidugu 
 They can handle larger projects efficiently.
 It is 3rd generation of vcs.
 it is written on c programming
